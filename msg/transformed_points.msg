@@ -1,3 +1,3 @@
 Header header
-std_msgs/UInt16MultiArray robot_pose
-std_msgs/UInt16MultiArray transformed_points
+std_msgs/Float64MultiArray robot_pose
+std_msgs/Float64MultiArray transformed_points

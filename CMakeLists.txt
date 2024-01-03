@@ -53,12 +53,14 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   Float64MultiArrayStamped.msg
+  Float64Stamped.msg
   log_message.msg
   image_data_message.msg
   image_crop_coordinates.msg
   initialization_mask_message.msg
   threshold_parameters.msg
   transformed_points.msg
+  RegisteredData.msg
 )
 
 ## Generate services in the 'srv' folder

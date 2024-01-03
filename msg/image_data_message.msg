@@ -7,9 +7,10 @@ sensor_msgs/Image segmentation_initialization_mask
 sensor_msgs/Image original_image
 sensor_msgs/Image cropped_image
 sensor_msgs/Image colorized_image
+sensor_msgs/Image down_sampled_image
 sensor_msgs/Image pre_processed_image
 sensor_msgs/Image image_mask
-sensor_msgs/Image expanded_image_mask
+sensor_msgs/Image post_processed_mask
 sensor_msgs/Image sure_foreground_mask
 sensor_msgs/Image sure_background_mask
 sensor_msgs/Image probable_foreground_mask
