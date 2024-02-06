@@ -61,6 +61,8 @@ add_message_files(
   threshold_parameters.msg
   transformed_points.msg
   RegisteredData.msg
+  SkinContactLines.msg
+  SaveExperimentDataCommand.msg
 )
 
 ## Generate services in the 'srv' folder

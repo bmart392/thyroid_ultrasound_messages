@@ -1,0 +1,8 @@
+Header header
+uint16 skin_approximation_mode
+float64 best_fit_left_line_a
+float64 best_fit_left_line_b
+float64 best_fit_right_line_a
+float64 best_fit_right_line_b
+float64 best_fit_shared_line_a
+float64 best_fit_shared_line_b
