@@ -1,4 +1,0 @@
-Header header
-image_data_message image_data
-geometry_msgs/WrenchStamped force
-Float64MultiArrayStamped pose

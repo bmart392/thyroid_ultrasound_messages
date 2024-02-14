@@ -60,9 +60,10 @@ add_message_files(
   initialization_mask_message.msg
   threshold_parameters.msg
   transformed_points.msg
-  RegisteredData.msg
+  RegisteredDataMsg.msg
   SkinContactLines.msg
   SaveExperimentDataCommand.msg
+  NonRealTimeImageFilterStatus.msg
 )
 
 ## Generate services in the 'srv' folder

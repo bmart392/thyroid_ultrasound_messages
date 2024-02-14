@@ -1,0 +1,4 @@
+Header header
+bool is_all_data_filtered
+uint16 num_images_filtered
+uint16 total_images_to_filter
