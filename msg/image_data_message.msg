@@ -3,6 +3,7 @@ string image_title
 uint8 image_color
 uint16 image_size_x
 uint16 image_size_y
+float64 imaging_depth
 uint16 ds_image_size_x
 uint16 ds_image_size_y
 float64 down_sampling_rate
