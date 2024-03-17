@@ -64,6 +64,7 @@ add_message_files(
   SkinContactLines.msg
   SaveExperimentDataCommand.msg
   NonRealTimeImageFilterStatus.msg
+  ControllerStatus.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -120,7 +121,7 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES thyroid_ultrasound_support
-   CATKIN_DEPENDS geometry_msgs message_generation message_runtime opencv2 rospy sensor_msgs std_msgs
+   CATKIN_DEPENDS geometry_msgs message_generation message_runtime rospy sensor_msgs std_msgs# opencv2
 #  DEPENDS system_lib
 )
 
