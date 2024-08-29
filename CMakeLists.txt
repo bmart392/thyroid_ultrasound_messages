@@ -65,6 +65,7 @@ add_message_files(
   SaveExperimentDataCommand.msg
   NonRealTimeImageFilterStatus.msg
   ControllerStatus.msg
+  FeatureObjectMsg.msg
 )
 
 ## Generate services in the 'srv' folder

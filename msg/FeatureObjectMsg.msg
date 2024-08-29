@@ -1,0 +1,8 @@
+Header header
+std_msgs/Float64MultiArray origin
+string lin_x_status
+string lin_y_status
+string lin_z_status
+string ang_x_status
+string ang_y_status
+string ang_z_status
