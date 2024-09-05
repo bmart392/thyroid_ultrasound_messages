@@ -66,6 +66,7 @@ add_message_files(
   NonRealTimeImageFilterStatus.msg
   ControllerStatus.msg
   FeatureObjectMsg.msg
+  CombinedPositionControllerStatus.msg
 )
 
 ## Generate services in the 'srv' folder
