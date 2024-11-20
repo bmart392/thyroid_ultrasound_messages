@@ -67,6 +67,8 @@ add_message_files(
   ControllerStatus.msg
   FeatureObjectMsg.msg
   CombinedPositionControllerStatus.msg
+  TemporarySegmentationStatus.msg
+  ImageWithTimeData.msg
 )
 
 ## Generate services in the 'srv' folder

@@ -1,6 +1,7 @@
 Header header
 string image_title
 uint8 image_color
+time image_capture_time
 uint16 image_size_x
 uint16 image_size_y
 float64 imaging_depth

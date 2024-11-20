@@ -1,0 +1,4 @@
+float64 mask_area_percentage
+bool bright_area_removal_active
+float64 sure_foreground_creation_score
+float64 sure_background_creation_score
